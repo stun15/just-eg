@@ -4,4 +4,4 @@ added git commit
     add
     now
     add diff
-    added merge
+    added mergesurated
