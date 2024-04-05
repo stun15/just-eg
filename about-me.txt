@@ -2,3 +2,5 @@ my name is raghu.
 added git commit 
     staus
     add
+    now
+    add diff
